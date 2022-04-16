@@ -23,7 +23,7 @@
           "functionRootPath": "./serverless/",
           "functions": [
             {
-              "name": "cea-tcb",
+              "name": "sorttime",
               "memory": 512,
               "timeout": 20,
               "runtime": "Nodejs12.16",
