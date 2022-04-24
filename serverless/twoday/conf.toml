@@ -1,0 +1,75 @@
+# 默认从本地加载学校边缘配置文件
+localEdgeCasesFile = "./school-edge-cases.json"
+
+# 用户配置，更详细的配置说明，请查看配置文档: https://github.com/ceajs/cea/blob/main/docs/config.md
+[[users]]
+# 账号用户名
+username = "1934103229"
+# 账号密码
+password = "yrs396341640"
+# 用户别名
+alias = "rs"
+# 签到地址
+addr = ["119.511452", "25.932111", "福建省福州市长乐区"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "1934103206"
+# 账号密码
+password = "czp546666"
+# 用户别名
+alias = "tp"
+# 签到地址
+addr = ["119.511452", "25.932111", "福建省福州市长乐区"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "203006008"
+# 账号密码
+password = "cp1217715044"
+# 用户别名
+alias = "cp"
+# 签到地址
+addr = ["119.507274", "25.927184", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "21312103051"
+# 账号密码
+password = "a15359688009"
+# 用户别名
+alias = "051"
+# 签到地址
+addr = ["119.511452", "25.932111", "福建省福州市长乐区"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "2034001053"
+# 账号密码
+password = "zhj20020411"
+# 用户别名
+alias = "zhj"
+# 签到地址
+addr = ["119.511452", "25.932111", "福建省福州市长乐区"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "2031201297"
+# 账号密码
+password = "20020412zyc"
+# 用户别名
+alias = "xl"
+# 签到地址
+addr = ["119.503498", "25.932574", "福建省福州市长乐区前街东路"]
+# 学校 ID 
+school = "fzfu"
