@@ -4,11 +4,71 @@ localEdgeCasesFile = "./school-edge-cases.json"
 # 用户配置，更详细的配置说明，请查看配置文档: https://github.com/ceajs/cea/blob/main/docs/config.md
 [[users]]
 # 账号用户名
-username = "2032301169"
+username = "2032301119"
 # 账号密码
-password = "zx1314520."
+password = "ok403403"
 # 用户别名
-alias = "169"
+alias = "119"
+# 签到地址
+addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "2032301039"
+# 账号密码
+password = "gan2002..."
+# 用户别名
+alias = "039"
+# 签到地址
+addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "2032301189"
+# 账号密码
+password = "yyt20020509"
+# 用户别名
+alias = "189"
+# 签到地址
+addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "2032301191"
+# 账号密码
+password = "YAOYIMING123"
+# 用户别名
+alias = "191"
+# 签到地址
+addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "2032301123"
+# 账号密码
+password = "msh666"
+# 用户别名
+alias = "123"
+# 签到地址
+addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+
+[[users]]
+# 账号用户名
+username = "1931201320"
+# 账号密码
+password = "Wtf369"
+# 用户别名
+alias = "320"
 # 签到地址
 addr = ["119.507274", "25.927184", "福建省福州市长乐区青闸线"]
 # 学校 ID 
@@ -16,72 +76,12 @@ school = "fzfu"
 
 [[users]]
 # 账号用户名
-username = "2032301008"
+username = "21305502002"
 # 账号密码
-password = "cg20020507"
+password = "20020521Cxt"
 # 用户别名
-alias = "008"
+alias = "cxt"
 # 签到地址
-addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
-# 学校 ID 
-school = "fzfu"
-
-[[users]]
-# 账号用户名
-username = "2032301150"
-# 账号密码
-password = "handclap12."
-# 用户别名
-alias = "150"
-# 签到地址
-addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
-# 学校 ID 
-school = "fzfu"
-
-[[users]]
-# 账号用户名
-username = "2032301031"
-# 账号密码
-password = "DJY20020716"
-# 用户别名
-alias = "031"
-# 签到地址
-addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
-# 学校 ID 
-school = "fzfu"
-
-[[users]]
-# 账号用户名
-username = "2032301121"
-# 账号密码
-password = "20001013lyy"
-# 用户别名
-alias = "121"
-# 签到地址
-addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
-# 学校 ID 
-school = "fzfu"
-
-[[users]]
-# 账号用户名
-username = "2032301013"
-# 账号密码
-password = "a123123.."
-# 用户别名
-alias = "013"
-# 签到地址
-addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
-# 学校 ID 
-school = "fzfu"
-
-[[users]]
-# 账号用户名
-username = "2153202139"
-# 账号密码
-password = "zhi722530"
-# 用户别名
-alias = "qzj"
-# 签到地址
-addr = ["119.507207","25.925487", "福建省福州市长乐区青闸线"]
+addr = ["119.510894", "25.931823", "福建省福州市长乐区"]
 # 学校 ID 
 school = "fzfu"
