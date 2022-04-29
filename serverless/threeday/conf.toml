@@ -4,71 +4,47 @@ localEdgeCasesFile = "./school-edge-cases.json"
 # 用户配置，更详细的配置说明，请查看配置文档: https://github.com/ceajs/cea/blob/main/docs/config.md
 [[users]]
 # 账号用户名
-username = "2032207013"
+username = "1935505135"
 # 账号密码
-password = "Cwdw071327."
+password = "qq123466"
 # 用户别名
-alias = "013"
+alias = "135"
 # 签到地址
-addr = ["119.507274", "25.927184", "福建省福州市长乐区青闸线"]
+addr = ["119.509729", "25.92992", "福建省福州市长乐区"]
 # 学校 ID 
 school = "fzfu"
 
 [[users]]
 # 账号用户名
-username = "2032301075"
+username = "21305310215"
 # 账号密码
-password = "lks123.."
+password = "hu772015"
 # 用户别名
-alias = "075"
+alias = "215"
 # 签到地址
-addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
+addr = ["119.510894", "25.931823", "福建省福州市长乐区"]
 # 学校 ID 
 school = "fzfu"
 
 [[users]]
 # 账号用户名
-username = "2032203190"
+username = "2016402408439"
 # 账号密码
-password = "wsh20104"
+password = "Lw.123456"
 # 用户别名
-alias = "190"
+alias = "439"
 # 签到地址
-addr = ["119.508186","25.932071", "福建省福州市长乐区青闸线"]
+addr = ["119.511024", "25.932176", "福建省福州市长乐区"]
 # 学校 ID 
 school = "fzfu"
 
 [[users]]
 # 账号用户名
-username = "2032301125"
+username = "2153202149"
 # 账号密码
-password = "p051802l"
+password = "T18190132326"
 # 用户别名
-alias = "pl"
-# 签到地址
-addr = ["119.507274", "25.927184", "福建省福州市长乐区青闸线"]
-# 学校 ID 
-school = "fzfu"
-
-[[users]]
-# 账号用户名
-username = "2032207068"
-# 账号密码
-password = "wyp01151754"
-# 用户别名
-alias = "v130"
-# 签到地址
-addr = ["119.507584","25.927733", "福建省福州市长乐区青闸线"]
-# 学校 ID 
-school = "fzfu"
-
-[[users]]
-# 账号用户名
-username = "1933102105"
-# 账号密码
-password = "cmy001121"
-# 用户别名
-alias = "cmy"
+alias = "149"
 # 签到地址
 addr = ["119.507207","25.925487", "福建省福州市长乐区青闸线"]
 # 学校 ID 
@@ -76,12 +52,12 @@ school = "fzfu"
 
 [[users]]
 # 账号用户名
-username = "2018420105351"
+username = "2035508064"
 # 账号密码
-password = "171206yn"
+password = "lianxinying071"
 # 用户别名
-alias = "351"
+alias = "064"
 # 签到地址
-addr = ["119.511452", "25.932111", "福建省福州市长乐区"]
+addr = ["119.511024", "25.932176", "福建省福州市长乐区"]
 # 学校 ID 
 school = "fzfu"
