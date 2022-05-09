@@ -23,7 +23,7 @@
           "functionRootPath": "./serverless/",
           "functions": [
             {
-              "name": "hexie",
+              "name": "chengxin",
               "memory": 512,
               "timeout": 20,
               "runtime": "Nodejs12.16",
