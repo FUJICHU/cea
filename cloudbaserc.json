@@ -23,7 +23,7 @@
           "functionRootPath": "./serverless/",
           "functions": [
             {
-              "name": "youshan",
+              "name": "jingye",
               "memory": 512,
               "timeout": 20,
               "runtime": "Nodejs12.16",
