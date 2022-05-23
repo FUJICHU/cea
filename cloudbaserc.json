@@ -23,7 +23,7 @@
           "functionRootPath": "./serverless/",
           "functions": [
             {
-              "name": "sanjian",
+              "name": "pingdeng",
               "memory": 512,
               "timeout": 20,
               "runtime": "Nodejs12.16",
