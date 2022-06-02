@@ -1,0 +1,15 @@
+# 默认从本地加载学校边缘配置文件
+localEdgeCasesFile = "./school-edge-cases.json"
+
+# 用户配置，更详细的配置说明，请查看配置文档: https://github.com/ceajs/cea/blob/main/docs/config.md
+[[users]]
+# 账号用户名
+username = "2035504014"
+# 账号密码
+password = "chen876054329"
+# 用户别名
+alias = "cpr"
+# 签到地址
+addr = ["119.509729", "25.92992", "福建省福州市长乐区"]
+# 学校 ID 
+school = "fzfu"
