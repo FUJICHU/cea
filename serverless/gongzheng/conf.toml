@@ -1,0 +1,55 @@
+# 默认从本地加载学校边缘配置文件
+localEdgeCasesFile = "./school-edge-cases.json"
+
+# 用户配置，更详细的配置说明，请查看配置文档: https://github.com/ceajs/cea/blob/main/docs/config.md
+[[users]]
+# 账号用户名
+username = "2035508083"
+# 账号密码
+password = "1421824310a"
+# 用户别名
+alias = "083"
+# 签到地址
+addr = ["119.502815", "25.933631", "福建省福州市长乐区通园路"]
+# 学校 ID 
+school = "fzfu"
+signedDataMonth = "2022-04"
+
+[[users]]
+# 账号用户名
+username = "2035505015"
+# 账号密码
+password = "101618cjj"
+# 用户别名
+alias = "djb"
+# 签到地址
+addr = ["119.507274", "25.927184", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+signedDataMonth = "2022-04"
+
+[[users]]
+# 账号用户名
+username = "2030107006"
+# 账号密码
+password = "chj.0245"
+# 用户别名
+alias = "han"
+# 签到地址
+addr = ["119.503498", "25.932574", "福建省福州市长乐区前街东路"]
+# 学校 ID 
+school = "fzfu"
+signedDataMonth = "2022-04"
+
+[[users]]
+# 账号用户名
+username = "2153601082"
+# 账号密码
+password = "xu123456"
+# 用户别名
+alias = "JW"
+# 签到地址
+addr = ["119.507274", "25.927184", "福建省福州市长乐区青闸线"]
+# 学校 ID 
+school = "fzfu"
+signedDataMonth = "2022-04"
